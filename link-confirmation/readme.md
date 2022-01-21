@@ -1,2 +1,2 @@
-This project contains an example of using INPUT, FOCUS, BLUR, COPY.  
-Open main.js.
+This project contains an example of link confirmation.  
+Event "click" or event page "beforeunload".
