@@ -4,3 +4,8 @@ body {
     font-family: sans-serif;
 }
 
+.focused {
+    transform: translateX(10px);
+    opacity: 0.7;
+    transition: transform 0.5s ease-in-out, opacity 1s ease-in-out;
+}
