@@ -1,0 +1,19 @@
+body {
+    background-color: #111418;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    opacity: 0;
+}
+
+input {
+    padding: 30px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.load {
+    opacity: 1;
+    transition: opacity 1.5s ease-in-out;
+}
