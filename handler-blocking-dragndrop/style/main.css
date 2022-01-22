@@ -1,0 +1,37 @@
+body {
+    background-color: #111418;
+    color: white;
+    font-family: sans-serif;
+    margin: 40px;
+    opacity: 0;
+}
+
+.slider {
+    width: 310px;
+    height: 15px;
+    border-radius: 10px;
+    background: steelblue;
+}
+
+.thumb {
+    width: 15px;
+    height: 25px;
+    border-radius: 15px;
+    background: #0D6DA4FF;
+    cursor: pointer;
+    position: relative;
+    top: -5px;
+    left: 15px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: #685a8a;
+    margin-top: 50px;
+}
+
+.focus {
+    opacity: 1;
+    transition: opacity 2s ease-in-out;
+}
