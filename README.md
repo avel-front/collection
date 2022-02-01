@@ -1,4 +1,8 @@
-# collection
-This repository has mini JavaScript projects.
+## Коллекция JavaScript
 
-P.S. This will help me don't forget many interisting things in Frontend.
+В этом репозитории размещены как мини-проекты на нативном JS, так и отдельные полезные фишки.  
+Дополнительно можно найти код, который выполняет роль полифила для методов массива.
+
+
+![Alt-js](https://i.ibb.co/xSdQQrz/js.png "JS")
+
